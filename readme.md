@@ -13,7 +13,7 @@
 
 
 
- <img src="[https://i.imgur.com/SVPpRUv.png](https://i.imgur.com/SQYmiGK.png)" align='center'>
+ <img src="https://i.imgur.com/SQYmiGK.png" align='center'>
 </li>
 <li>
 <b>Working @:</b> Hospital hehehe
