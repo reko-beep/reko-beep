@@ -9,13 +9,11 @@
   </div>
 
 
-<div>
-
-<img src="https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif">
+<div align='center'>
 
 
 
- <img src="https://i.imgur.com/SVPpRUv.png">
+ <img src="https://i.imgur.com/SVPpRUv.png" align='center'>
 </li>
 <li>
 <b>Working @:</b> Hospital hehehe
