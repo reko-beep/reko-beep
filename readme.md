@@ -10,14 +10,10 @@
 
 
 <div>
-<h2 align="center"> About Me </h2>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif">
-  </div>
-<li>
- <b>Name:</b>Ali Tahir</li>
 
-<li>
+<img src="https://i.pinimg.com/originals/73/5d/73/735d73725f77188e554756b5e11a2bf1.gif">
+
+
 
  <img src="https://i.imgur.com/SVPpRUv.png">
 </li>
