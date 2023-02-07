@@ -18,7 +18,8 @@
  <b>Name:</b>Ali Tahir</li>
 
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Python, Web Scraping
+
+ <img src="https://i.imgur.com/SVPpRUv.png">
 </li>
 <li>
 <b>Working @:</b> Hospital hehehe
