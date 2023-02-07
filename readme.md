@@ -8,13 +8,8 @@
  <img src="https://lanyard.cnrad.dev/api/190842306818080769?idleMessage=Apparently%20in%20Med%20School&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121" align='right'>
   </div>
 
+ <img src="https://i.imgur.com/SQYmiGK.png" align='left'>
 
-<div align='center'>
- <img src="https://i.imgur.com/SQYmiGK.png" align='center'>
-</li>
-
-<br><br><br>
-</div>
 <div>
 
 </body>
