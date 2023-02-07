@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <!-- <a href="https://discord.com/users/190842306818080769" > -->
-   <img src="https://lanyard.cnrad.dev/api/190842306818080769?idleMessage=Apparently in med school!&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+   <img src="https://lanyard.cnrad.dev/api/190842306818080769?idleMessage=Apparently in med school!&animated=true&theme=dark&borderRadius=20"  />
   </a>
 </div>
 
