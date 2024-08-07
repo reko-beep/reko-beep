@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mua'bad.<br>🌱 I’m currently learning SQL.<br>💬 Ask me about anything i guess.<br>⚡ Fun fact I am a medical student.<br>
+🔭 I’m currently working on Slime.<br>🌱 I’m currently learning SQL.<br>💬 Ask me about anything i guess.<br>⚡ Fun fact I am a medical student.<br>
 
 
 ## 🌐 Socials:
