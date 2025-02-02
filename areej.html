@@ -95,9 +95,13 @@
     const gif = document.querySelector(".gif");
     const yesBtn = document.querySelector(".yes-btn");
     const noBtn = document.querySelector(".no-btn");
+    var d = new Date(),
 
+    n = d.getMonth(),
+
+    y = d.getFullYear()
     yesBtn.addEventListener("click", () => {
-        question.innerHTML = "Yay, see you tommorow! <3";
+        question.innerHTML = "Yay," + (10 - n).toString() + " months to go. InshaAllah. I can't wait to spend every moment with you, making memories and building our beautiful life together.";
         gif.src =
             "https://i.pinimg.com/originals/63/19/6c/63196c4cf7704c98de6c59defd498862.gif";
     });
