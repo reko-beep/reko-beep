@@ -6,7 +6,12 @@
 <img align="left"  src="https://raw.githubusercontent.com/reko-beep/reko-beep/refs/heads/main/verse.png">
 
 
-  [Recite the verse](https://gabalpha.github.io/read-audio/?p=https://www.naataudio.com/downloads/random/Surah-al-baqrah-last-two-verse.mp3)
+  ### Recite the verse
+  
+
+
+https://github.com/user-attachments/assets/9e2f7e68-f1e9-4a33-9463-87c995ad1de6
+
 
 
 # Favourite Lyric
