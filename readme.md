@@ -4,12 +4,10 @@
 
 # Favourite Verse
 <img align="left"  src="https://raw.githubusercontent.com/reko-beep/reko-beep/refs/heads/main/verse.png">
-<script type="module" src="play-button.js"></script>
 
-<play-button>
-  <audio controls src="https://www.naataudio.com/downloads/random/Surah-al-baqrah-last-two-verse.mp3"></audio>
-  <button>Play</button>
-</play-button>
+
+  [Recite the verse](https://gabalpha.github.io/read-audio/?p=https://www.naataudio.com/downloads/random/Surah-al-baqrah-last-two-verse.mp3)
+
 
 # Favourite Lyric
 <img align="right"  src="https://raw.githubusercontent.com/reko-beep/reko-beep/refs/heads/main/lyrics.png">
