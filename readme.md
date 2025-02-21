@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://raw.githubusercontent.com/reko-beep/reko-beep/refs/heads/main/main.png)">
+</p>
+
 # 💫 About Me:
 👯 I’m looking to collaborate on a medical induction website and Pakistan pcparts listing website.<br>🌱 I’m currently learning web frameworks.<br>💬 Ask me about anything.<br>⚡ a medstudent.
 
