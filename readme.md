@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Slime.<br>🌱 I’m currently learning SQL.<br>💬 Ask me about anything i guess.<br>⚡ Fun fact I am a medical student.<br>
+🔭 Working on some big stuff <br> Thanking about making pakistan pc parts listing website and Medical Induction statistics <br>🌱 I’m currently learning SQL.<br>💬 Ask me about anything i guess.<br>⚡ Fun fact I am a medical student.<br>
 
 
 ## 🌐 Socials:
@@ -13,12 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reko-beep&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=reko-beep&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9crcxmc63v5c60zem99dbcf0v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
