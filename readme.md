@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reko-beep/reko-beep/main/banner.png" alt="Reko Banner" />
+</p>
 <h1 align="center">Hi there, I'm Reko 👋</h1>
 
 <p align="center">
