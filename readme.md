@@ -41,7 +41,7 @@
 ### 💬 Let's Talk
 
 - 💌 [Message me on GitHub](https://github.com/reko-beep)
-- 📫 Or reach out via email at: `your_email@example.com`
+
 
 ---
 
