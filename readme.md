@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Reko 👋</h1>
 
 <p align="center">
-  👨‍⚕️ Medical Student • 🧑‍💻 Developer • 🇵🇰 Based in Pakistan
+  👨‍⚕️ Medical Student • 💻 Developer • 🇵🇰 Based in Pakistan
 </p>
 
 ---
@@ -51,7 +51,6 @@
 ### ⚡ Fun Fact
 
 > I’m either deep in code or rounding in the NICU. There's no in-between.  
-> *(Also, I may have too many Google Sheets with color-coded clinical plans...)*
 
 ---
 
