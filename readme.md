@@ -13,7 +13,7 @@
 
 - 🧠 Clinician-in-training passionate about using **tech to solve healthcare problems**
 - 💡 Exploring ideas in **neonatology, mortality review tools**, and **local healthcare dashboards**
-- 🌍 I also run side-projects like a **PC parts listing site for Pakistan**
+- 🌍 I also run side-projects like a **medical induction platform** for new doctors, where I generate estimated merit lists and help PG Trainees know beforehand where they stand.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 📌 Current Goals
 
-- 🔨 Building a **medical induction platform** for new doctors
+
 - 🖥️ Creating a **Pakistan-based PC parts tracker**
 - 📚 Learning more about **data visualization** and **clinical dashboards**
 
