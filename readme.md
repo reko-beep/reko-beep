@@ -16,9 +16,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, HTML/CSS, Bash
-- **Frameworks:** React, Node.js, Flask, TailwindCSS
-- **Tools:** Firebase, Git, VS Code, Figma, Postman
+- **Languages:** JavaScript, Python, HTML/CSS
+- **Frameworks:** Vue.js, Flask, Tailwind
+- **Tools:** VS Code, Photoshop, Burp Suite
 
 ---
 
